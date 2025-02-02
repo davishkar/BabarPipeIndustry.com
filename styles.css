@@ -205,7 +205,7 @@ section {
 
 h2 {
     font-family: var(--font-secondary);
-    color: var(--primary-color);
+    color: #fff;
     text-align: center;
     margin-bottom: 40px;
     font-size: 36px;
